@@ -1,0 +1,8 @@
+# Campus Digital Forensics System (CDF) - Configuration Template
+# Copy this file to config.properties to override default settings
+db.host=localhost
+db.port=3306
+db.name=campus_digital_forensics
+db.user=root
+db.password=your_mysql_password_here
+db.allowFallbackDemo=true
